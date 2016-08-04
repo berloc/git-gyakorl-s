@@ -1,10 +1,7 @@
 1. alma
 2. szilva
-
-
-
-
-
+3. körte
+4. barack
 
 
 
@@ -14,3 +11,4 @@
 
 
 kiváncsi leszek az automergre, hogy sikerül-e megoldania
+
